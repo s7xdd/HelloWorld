@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a20df76-9c32-4c30-8832-73d72490c39a" name="Default Changelist" comment="I have added a line saying that this was edited on Android Studio" />
+    <list id="c646febc-b378-4518-88a0-d3b89fa0fd40" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +29,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a20df76-9c32-4c30-8832-73d72490c39a" name="Default Changelist" comment="" />
+      <changelist id="c646febc-b378-4518-88a0-d3b89fa0fd40" name="New changelist" comment="" />
       <created>1648664080489</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
